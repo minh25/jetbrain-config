@@ -1,0 +1,7 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="$USER_HOME$/.local/share/pnpm/node">
+      <version-cache version="12.22.12" last-modified="1666081444811" />
+    </local-interpreter>
+  </component>
+</application>
